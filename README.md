@@ -2,11 +2,11 @@
   Hi 👋, I'm Omar Kamal
 </h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" style="vertical-align: middle;" />
-  &nbsp; <strong>Mern Stack Developer</strong> &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" style="vertical-align: middle;" />
-</p>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px" style="vertical-align: middle;" />
+  &nbsp; Mern Stack Developer &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px" style="vertical-align: middle;" />
+</h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Error-Image" width="450"/>
