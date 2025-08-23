@@ -1,7 +1,7 @@
 <h1 align="center">
   <p>Hi 👋, I'm Omar Kamal </p>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45px" />
-  <p align="center">&nbsp;Mern Stack Developer &nbsp;</p>
+  <span align="center">&nbsp;Mern Stack Developer &nbsp;</span>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45px" />
 </h1>
 
