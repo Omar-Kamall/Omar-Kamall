@@ -64,8 +64,35 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omar-kamal-cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-kamal-cs" height="30" width="40" /></a>
-<a href="https://fb.com/Omar Kamal](https://www.facebook.com/share/1XGSjjVvVn/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar kamal" height="30" width="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/omar-kamal-cs" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://fb.com/omar.kamal.495639" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201006677452" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
+  
+  <!-- Portfolio -->
+  <a href="https://omar-portfolio.vercel.app/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio" height="30" width="40" />
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:omar.k.0000000@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
+  
+  <!-- Phone -->
+  <a href="tel:+201006677452" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/phone.png" alt="Phone" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
