@@ -1,12 +1,13 @@
 
 <h1 align="center">
-<p>Hi 👋, I'm Omar Kamal</p>
+Hi 👋, I'm Omar Kamal
+</h1>
+
 <div style="text-align:center; display:flex; justify-content:center; align-items:center; gap:12px;">
   <img src="https://camo.githubusercontent.com/739ff4cc642d6d72a274d75aa0a16d85782c91011453641c1bcc47d872faf42d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" width="80px" />
   <strong style="font-size:26px;">MERN Stack Developer</strong>
   <img src="https://camo.githubusercontent.com/5c3873b6812ecfb1d2bc6ece8c2c548d53d151c2edbf6b0281207672ca3ab0a8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" width="80px" />
 </div>
-</h1>
 
 <div align="center">
 
